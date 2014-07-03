@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Template
+tagline:          ''
+description:      ''
+url:              http://mysite
+baseurl:          /
+
+author:
+  name:           'Rōnin'
+  url:            http://mysite
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/hypergamy/site-template
